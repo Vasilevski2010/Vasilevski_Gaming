@@ -1,0 +1,14 @@
+<!DOCTYPE htmL>
+</html>
+    <head>
+        <meta chraset+"utf-8">
+        <title>Project: Travel webpage</title> 
+    </head>
+    <body>
+
+        <h1>Travel to Costa Rica</h1>
+
+        <p>...and you'll get to see thes beauties!</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Scary crocodles" width="200"/>
+    </body>
+</html>
